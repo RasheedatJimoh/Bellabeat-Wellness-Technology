@@ -1,4 +1,4 @@
-- 👋 Hi, I’m RasheedatJimoh
+- 👋 Hi, I’m Rasheedat Jimoh
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning R, Python, SQL and Tableau
 - 💞️ I’m looking to collaborate on data related projects 
